@@ -1,6 +1,6 @@
 # MVC-CIS17C
 
-MVC C++ Data Structures
+Moreno Valley College: C++ Data Structures
 
 🛠️ Public Repository for storing my programs during my time in *Moreno Valley College*.  
 
